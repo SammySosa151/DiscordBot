@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const bot = new Discord.Client();
 
-bot.login('NzczMjk4MDA0NTkyNTU4MTAx.X6HL4w.UgeFwXS5-TfZ4zfvGGCa2yS1QWg')
+bot.login('NzczMjk4MDA0NTkyNTU4MTAx.X6HL4w.AMU_vvL-ZUiFBnpbp5P0iKNh3HU')
 
 bot.on("ready", bot => {
     console.log('Bot is Online!')
